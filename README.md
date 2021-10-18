@@ -1,2 +1,2 @@
 # BankSystem
-A small user interface banking system
+A banking system that relies on user input. The user can create a new account, deposit money, and withdraw money into their account. There are three account types, savings, checking, and CD, so when one makes a new account, they can choose to create one, two, or all three account types. When checking balance, the system accounts for the interest earned in both the savings and CD accounts. The system starts with no account records but saves the new accounts until it stops running.  The system is programmed to work around many errors. That includes withdrawing more money than one has in their account, making a new account for someone who already has an account, and entering the wrong type of input.
